@@ -1,2 +1,2 @@
-# frosted-panel
+# Frosted Panel
 Frosted panel in Java FX
